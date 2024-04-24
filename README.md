@@ -28,7 +28,7 @@ pip install transformers torch pandas scikit-learn
 ```
 
 3. Download pre-trained models from OneDrive or train them using the provided notebooks:
-   - [Best Model - BERT for Evidence Detection](https://livemanchesterac-my.sharepoint.com/:u:/r/personal/zhuoran_wang-2_student_manchester_ac_uk/Documents/best_model.bin?csf=1&web=1&e=ZSyjsH)
+   - [Best Model - BERT for Evidence Detection]([https://livemanchesterac-my.sharepoint.com/:u:/r/personal/zhuoran_wang-2_student_manchester_ac_uk/Documents/best_model.bin?csf=1&web=1&e=ZSyjsH](https://livemanchesterac-my.sharepoint.com/:u:/g/personal/zhuoran_wang-2_student_manchester_ac_uk/EaSVcTouJQZJgY7RPBB9u2QB1M1QJD-rAyVTf1_P0CBnIg?e=BDx2SA))
 
 
 ### Training the Model
